@@ -24,7 +24,7 @@ public class IF110119028Latihan37RataRataNilaiOO {
         RataRataNilaiMahasiswa nilaiMhs = new RataRataNilaiMahasiswa();
         double ratarata = nilaiMhs.hitungRataRata();
         System.out.println("\nMaka, Rata-rata Nilainya adalah: "+ratarata);
-        System.out.println("Developed by : Maulana Imam Malik");
+        System.out.println("Developed by : Rizal Sihombing");
     }
     
 }
