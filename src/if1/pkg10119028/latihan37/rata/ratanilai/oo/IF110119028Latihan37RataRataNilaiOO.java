@@ -12,7 +12,7 @@ package if1.pkg10119028.latihan37.rata.ratanilai.oo;
  * KELAS    : IF1
  * NIM      : 10119028
  * Deskripsi Program : Program ini berisi program untuk menampilkan rata-rata
- *                     nilai mahasiswa dengan konsep OO
+ *                     nilai mahasiswa dengan konsep OO 
  */
 public class IF110119028Latihan37RataRataNilaiOO {
 
